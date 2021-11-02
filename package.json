@@ -1,12 +1,12 @@
 {
-  "name": "@cis188/ci-demo",
+  "name": "@pawalt/ci-demo",
   "version": "1.0.0",
   "description": "A demo application used to demonstrate CI for cis188",
   "main": "index.js",
   "scripts": {
     "lint": "eslint"
   },
-  "author": "CIS 188",
+  "author": "pawalt",
   "license": "ISC",
   "dependencies": {
     "jest": "^26.6.3",
@@ -19,6 +19,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cis188/ci-demo.git"
+    "url": "https://github.com/pawalt/ci-demo.git"
   }
 }
